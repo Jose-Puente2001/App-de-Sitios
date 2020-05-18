@@ -1,1 +1,1 @@
-# POO Javascript App Sitios
+# POO Javascript Ecmascript 6  App Sitios
